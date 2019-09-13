@@ -23,3 +23,4 @@ print(name.replace("ALOK",
 # Check if particular value/string is present in the string
 print(name)
 print('Srivastav' in name)  # This will return true.
+print('SrivastavA' in name)  #  This will return false
