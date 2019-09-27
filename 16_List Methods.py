@@ -35,5 +35,5 @@ print(number)       # The will reverse the string
 """ Copying a string """
 number2 = number.copy()
 number.sort()
-print(number)
+print(number)      # Here another copy of string is created
 print(number2)
